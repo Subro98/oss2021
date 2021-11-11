@@ -1,1 +1,2 @@
-another file from TUTORIAL
+부캐에서 노트북으 수정중~~
+10 + 2 = 102 입니다
